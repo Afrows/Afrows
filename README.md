@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I'm Tony<br><br>Software Engineer sharing my journey and learnings in tech<br>Studying Computer Science and Mathematics at Brunel University, London<br>Currently learning Object-Orientated Programming through U-Demy<br>
 
-<!--
-**Afrows/Afrows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Afrows&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Afrows&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Afrows&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Afrows&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
