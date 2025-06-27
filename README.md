@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Tony<br><br>Software Engineer sharing my journey and insights in tech<br>Studying Computer Science and Mathematics at Brunel University, London<br>Currently learning Object-Orientated Programming through [U-Demy](https://www.udemy.com/course/java-the-complete-java-developer-course/)<br>
+Hi, I'm Tony<br><br>Software Engineer sharing my journey and insights in tech<br>Studying Computer Science and Mathematics at Brunel University, London<br>Currently learning Object-Orientated Programming through [UDemy](https://www.udemy.com/course/java-the-complete-java-developer-course/)<br>
 
 
 # 💻 Tech Stack:
